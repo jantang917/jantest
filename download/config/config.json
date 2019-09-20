@@ -8,115 +8,85 @@
 		"nPlatID":0,
 		"ServerURL":
 		[
-			"http://jhgdn.52xwtx.top",
-			"http://spedn.fanguanggao.com"
+			"http://ufter.sigechengxuyuan.com:20070"
 		],
 		"UpdateDir":"download/cid_3172",
-		"UpdateApkName":"qsqp668-3.1.7.apk",
+		"UpdateApkName":"aaa.apk",
 		
-		"kfurl":"https://chat7.livechatvalue.com/chat/chatClient/chatbox.jsp?companyID=935334&configID=62740&jid=3601463973&s=1",
+		"Logon":
+		[
+			"guos.heyanginflatables.com:25200"
+		],
+		"defaultip":
+		[
+			"47.244.219.22"
+		],
+		
+		"review":true,
+		
 		"bCheckE":false,
 		
-		"CurVer":"3.3.8",
-		"MinVer":"2.8.2",
-		"ZipVer":"3.3.8",
+		"CurVer":"3.0.0",
+		"MinVer":"3.0.0",
+		"ZipVer":"3.0.0",
 		
 		"gameVerList":
 		[
 			{
 				"gameID":1,
 				"gamePrefix":"Fish",
-				"gameVer":"3.3.0"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":2,
 				"gamePrefix":"FishFast",
-				"gameVer":"3.2.7"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":4,
 				"gamePrefix":"Cows",
-				"gameVer":"3.2.6"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":5,
 				"gamePrefix":"RedBlack",
-				"gameVer":"3.2.6"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":6,
 				"gamePrefix":"DragTiger",
-				"gameVer":"3.2.7"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":7,
 				"gamePrefix":"Fqzs",
-				"gameVer":"3.2.8"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":8,
 				"gamePrefix":"5Dragons",
-				"gameVer":"3.2.7"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":13,
 				"gamePrefix":"GoldFlower",
-				"gameVer":"3.2.6"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":14,
 				"gamePrefix":"RobCows",
-				"gameVer":"3.2.6"
+				"gameVer":"2.6.0"
 			},
 			{
 				"gameID":15,
 				"gamePrefix":"LandLord",
-				"gameVer":"3.2.6"
+				"gameVer":"2.6.0"
 			}
 		],
 		"ShowGameList":[8,15,4,1,2,6,14,7,5,13],
 		
-		
-		"Logon":
-		[
-			"faultrepair.cn:9000"
-		],
-		"defaultip":
-		[
-			"62.234.181.244",
-			"62.234.181.212",
-			"212.64.113.221",
-			"212.64.112.41",
-			"134.175.139.198",
-			"111.231.242.141"
-		],
-		
-		
-		
-		"ipaver":"",
-		"ipaupdateurl":"",
-		
-		"GuideGames":[15],
-		"QuickGame":6,
-		"DefaultDraw":2,
-		"ChargeCfg":[32],
-		"AliAccCfg":[177,166,188,198,199],
-		"YKCanRelief":false,
-		
-		"review":false,
-		"bSendCD":true,
-		"bCZInSaf":false,
-		
-		"downorgurl":"https://www.52xwtx.top/qsqp/",
-		
-		"SCidTypeScript":"local shield_cid={};return shield_cid;",
-		
-		"ShowPromoter":true,
-		"PromoterUrl":"http://efmsv.v22z8x.cn/channel.html",
-		"QRCodeUrl":"http://efmsv.v22z8x.cn?cid=",
-		
 		"ios_review_ver":"1.0.2",
-		"ios_review_url":"http://gh.xycuiru.cn:20080/download/",
-		"ios_review_cfg":"config_ios_1005_review.xml"
+		"ios_review_url":"http://ufter.sigechengxuyuan.com:20070/download/",
+		"ios_review_cfg":"config_ios_review.xml"
 	}
 }
