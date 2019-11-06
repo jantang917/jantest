@@ -63,13 +63,8 @@
 				"gameVer":"2.6.0"
 			},
 			{
-				"gameID":8,
-				"gamePrefix":"5Dragons",
-				"gameVer":"2.6.0"
-			},
-			{
-				"gameID":13,
-				"gamePrefix":"GoldFlower",
+				"gameID":9,
+				"gamePrefix":"9Dragons",
 				"gameVer":"2.6.0"
 			},
 			{
@@ -83,10 +78,7 @@
 				"gameVer":"2.6.0"
 			}
 		],
-		"ShowGameList":[8,15,4,1,2,6,14,7,5,13],
+		"ShowGameList":[9,15,4,1,2,6,14,7,5],
 		
-		"ios_review_ver":"1.0.2",
-		"ios_review_url":"http://ufter.sigechengxuyuan.com:20070/download/",
-		"ios_review_cfg":"config_ios_3000_review.xml"
 	}
 }
