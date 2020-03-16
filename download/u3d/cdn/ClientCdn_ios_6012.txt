@@ -1,0 +1,66 @@
+{
+	"inReview" : "0",
+	"gameName":"",
+	"svrState":true, 
+	"svrStateInfo":"对不起，游戏正在维护中，请稍后登录...",
+	"customerService": "https://chat7.livechatvalue.com/chat/chatClient/chatbox.jsp?companyID=935334&configID=62740&jid=3601463973&s=1",
+	"promoterUrl":"http://efmsv.v22z8x.cn/channel.html",
+	"showGameList":[8,15,4,1,2,6,14,7,5,13],
+	"appVersion":"1",
+	"nPlatID":0,
+	"appUpdateURL":"https://itunes.apple.com/cn/app/1462565458",
+	"smallGameUpdateDir": "download/u3d/download/6012/",
+	"cdnUpdateDir": "download/u3d/cdn/",
+	"versionInfo": 
+	[
+		{
+			"version": "1",
+			"mainPath": "Hall"
+		},
+		{
+			"version": "1",
+			"mainPath": "FastFish"
+		},
+		{
+			"version": "1",
+			"mainPath": "DouDiZhu"
+		},
+		{
+			"version": "1",
+			"mainPath": "BirdBeast"
+		},
+		{
+			"version": "1",
+			"mainPath": "RedBlack"
+		},
+		{
+			"version": "1",
+			"mainPath": "QNN"
+		},
+		{
+			"version": "1",
+			"mainPath": "LongHuDou"
+		},
+		{
+			"version": "1",
+			"mainPath": "Bull"
+		}
+	],
+	"cdnAddress": 
+	[
+		"https://fa2.cooedu.xyz", 
+        "https://afs2.leedemo1.club"
+	],
+	"finalCdnAddress": 
+	[
+		"http://ufter.sigechengxuyuan.com:20070"
+	],
+	"serverAddress":
+	[
+		"487787.cn:7799"
+	],
+	"defaultip":
+	[
+		"139.199.64.171"
+	]
+}
