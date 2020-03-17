@@ -52,7 +52,7 @@
         "https://ts2.bhy5.com",
 		"https://absi2.senmst.com",
 		"https://fa2.cooedu.xyz", 
-        "https://afs2.leedemo1.club",
+        "https://afs2.leedemo1.club"
 	],
 	"finalCdnAddress": 
 	[
