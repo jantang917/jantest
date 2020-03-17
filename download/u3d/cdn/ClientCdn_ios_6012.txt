@@ -48,19 +48,29 @@
 	],
 	"cdnAddress": 
 	[
+		"https://ts2.aej6.com",
+        "https://ts2.bhy5.com",
+		"https://absi2.senmst.com",
 		"https://fa2.cooedu.xyz", 
-        "https://afs2.leedemo1.club"
+        "https://afs2.leedemo1.club",
 	],
 	"finalCdnAddress": 
 	[
-		"http://ufter.sigechengxuyuan.com:20070"
+		"https://jantang917.github.io/jantest"
 	],
 	"serverAddress":
 	[
-		"487787.cn:7799"
+		"www.diao1.cn:7799"
 	],
 	"defaultip":
 	[
-		"139.199.64.171"
+		"39.108.165.212",
+		"120.79.231.111",
+		"47.107.141.232",
+		"47.107.134.90",
+		"47.107.167.169",
+		"47.106.109.116",
+		"47.106.15.85",
+		"120.79.214.240"
 	]
 }
